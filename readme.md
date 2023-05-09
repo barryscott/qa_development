@@ -9,7 +9,7 @@ Using a Mark Down languages enables you to store your notes in GitHub so that yo
 
 ### Best Practices for Learning
 
-Don't take in too much information with trying to apply knowledge by actually practicing code writing in a project.  
+Don't take in too much information with trying to apply knowledge by actually practicing code writing in a project. Like I am here, using a "mark up" language for this .md "read me" file in Github. 
 What does it take to create a project?  
 Do I need other people's permission or assistance to create, deploy, review a project?
 
