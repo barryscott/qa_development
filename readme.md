@@ -12,7 +12,9 @@ A README should contain only the necessary information for developers to get sta
 
 Don't take in too much information with trying to apply knowledge by actually practicing code writing in a project. Like I am here, using a "mark up" language for this .md "read me" file in Github. And as it turns out, [I should probably be using a Wiki](https://stackoverflow.com/questions/32430473/what-are-the-main-functionality-differences-between-github-wiki-and-readme), but I had to make my Repository public and was not excited about that. It makes sense to be high level in the readme along with all the getting started information (i.e. local setup), and leave the long form information such as application features, design principles, etc. in the wiki.  
 What does it take to create a project?  
-Do I need other people's permission or assistance to create, deploy, review a project?
+Do I need other people's permission or assistance to create, deploy, review a project?  
+
+### Organinize Progress Notes with [Wiki](https://github.com/ParticleCore/Particle/wiki/Features#enable-pop-out-mode) vs [ReadMe file](https://gist.github.com/atcuno/3425484ac5cce5298932)
 
 ### Define:  
 
